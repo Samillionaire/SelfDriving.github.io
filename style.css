@@ -6,7 +6,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image:url(./second/iuyu.jpg);
+    background-image:url('./iuyu.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
